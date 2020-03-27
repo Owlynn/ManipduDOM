@@ -7,6 +7,7 @@ for (valeur of bleu) {
     console.log(valeur);
     valeur.style.color = "blue";
     console.log(valeur);
+
 }
 
 
